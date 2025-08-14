@@ -1,5 +1,5 @@
 # LinearRegression-NeuralNetwork
-Predicting House Prices Using Linear Regression + Neural Network with TensorFlow
+A Machine Learning Project predicting house prices based on features like location, number of rooms, and property size using Linear Regression + Neural Network with TensorFlow
 
 ## Getting Started
 
