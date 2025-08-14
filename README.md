@@ -27,3 +27,26 @@ A training set is included in [`train.csv`](train.csv).
 - [`neurnet.ipynb`](neurnet.ipynb) - A deep learning approach for capturing non-linear relationships
 
 Both models are evaluated using MAE, MSE, and R² score, with results compared to highlight trade-offs.
+
+## Credits
+
+- Author: [Mohammad Altiwainy](linkedin.com/in/mohammad-altiwainy/) (@maltiwainy229)
+- Dataset Source: [Kaggle - House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+
+## Contact
+
+For questions, feedback, or collaboration, feel free to reach out:
+
+- GitHub Issues: [Create an issue](https://github.com/maltiwainy229/LinearRegression-NeuralNetwork/issues)
+- Email: maltiwainy229@gmail.com
+
+## Contributions
+
+Contributions are welcome! To contribute:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/your-feature`)
+3. Commit your changes
+4. Push to your fork and open a Pull Request
+
+Please ensure your code follows the existing style and add appropriate tests/documentation where necessary.
